@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://www.tiktok.com/@jazminbesp/video/7104792940031134982?is_from_webapp=1&sender_device=pc&web_id=7363486596824106502">
-    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-ar21.svg" alt="Watch on TikTok" height="100"/>
+    <img src="https://img.icons8.com/?size=100&id=84521&format=png&color=000000" alt="Watch on TikTok" height="100"/>
   </a>
 </p>
 
