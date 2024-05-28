@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx3MHhhc3YwMW9wb2x4NGd0eGNrYjU3MDJkeWFzb2ZmeXQ4OHhjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Jurgen Molina** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFxa3ZiNGJndGl5M25yN3FnaG5xdDBvamx1aXdpNDRpM2lobTRzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8hmCdMaXUewzcroADq/giphy.gif" width="400" height="400" align="right"/>
+- :credit_card: My full name is **Jurgen Molina** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFxa3ZiNGJndGl5M25yN3FnaG5xdDBvamx1aXdpNDRpM2lobTRzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8hmCdMaXUewzcroADq/giphy.gif" width="400" height="350" align="right"/>
 - :school: I'm currently the Final year student at **Universidad Francisco de Paula Santander**
 - :books: My major is **Systems Engineer**
 - :earth_asia: I'm living now in **Cúcuta, Norte de Santander, Colombia**
