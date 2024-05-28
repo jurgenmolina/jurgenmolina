@@ -55,6 +55,12 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25"/>
 </p>
 
+<p align="center">
+  <a href="https://www.tiktok.com/@jazminbesp/video/7104792940031134982?is_from_webapp=1&sender_device=pc&web_id=7363486596824106502">
+    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-ar21.svg" alt="Watch on TikTok" height="100"/>
+  </a>
+</p>
+
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
